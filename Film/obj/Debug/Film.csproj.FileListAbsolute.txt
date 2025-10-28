@@ -1,0 +1,10 @@
+C:\Users\Bolog\source\repos\Film\Film\bin\Debug\Film.exe.config
+C:\Users\Bolog\source\repos\Film\Film\bin\Debug\Film.exe
+C:\Users\Bolog\source\repos\Film\Film\bin\Debug\Film.pdb
+C:\Users\Bolog\source\repos\Film\Film\obj\Debug\Film.csproj.AssemblyReference.cache
+C:\Users\Bolog\source\repos\Film\Film\obj\Debug\Film.Form1.resources
+C:\Users\Bolog\source\repos\Film\Film\obj\Debug\Film.Properties.Resources.resources
+C:\Users\Bolog\source\repos\Film\Film\obj\Debug\Film.csproj.GenerateResource.cache
+C:\Users\Bolog\source\repos\Film\Film\obj\Debug\Film.csproj.CoreCompileInputs.cache
+C:\Users\Bolog\source\repos\Film\Film\obj\Debug\Film.exe
+C:\Users\Bolog\source\repos\Film\Film\obj\Debug\Film.pdb
